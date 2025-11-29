@@ -31,8 +31,10 @@
 ## 📫 Contact
 
 [📄 View CV](https://res.cloudinary.com/djh0tsi3i/image/upload/v1764393702/Karim_Abdelhalim_Cv_aon7t2.pdf)
+
 [🔗 LinkedIn](https://www.linkedin.com/in/karim-omran)  
-[✉️ Email](mailto:eng.karimomran@gmail.com)t
+
+[✉️ Email](mailto:eng.karimomran@gmail.com)
 
 ---
 
