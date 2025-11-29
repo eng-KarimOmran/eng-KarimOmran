@@ -35,7 +35,8 @@
 [![Email](https://img.shields.io/badge/Email-eng.karimomran%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eng.karimomran@gmail.com)  
 
 📍 Alexandria, Egypt  
-📞 +201277913201  
+📞 +201277913201
+
 
 ---
 
