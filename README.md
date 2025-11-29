@@ -30,16 +30,9 @@
 
 ## 📫 Contact
 
-[![View CV](https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobat)](https://res.cloudinary.com/djh0tsi3i/image/upload/v1764393702/Karim_Abdelhalim_Cv_aon7t2.pdf)  
-[![GitHub](https://img.shields.io/badge/GitHub-eng--KarimOmran-black?style=for-the-badge&logo=github)](https://github.com/eng-KarimOmran)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim%20Omran-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karim-omran)  
-[![Email](https://img.shields.io/badge/Email-eng.karimomran%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:eng.karimomran@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+201277913201-green?style=for-the-badge&logo=whatsapp)](https://wa.me/201277913201)
-
-
-📍 Alexandria, Egypt  
-📞 +201277913201
-
+[📄 View CV](https://res.cloudinary.com/djh0tsi3i/image/upload/v1764393702/Karim_Abdelhalim_Cv_aon7t2.pdf)
+[🔗 LinkedIn](https://www.linkedin.com/in/karim-omran)  
+[✉️ Email](mailto:eng.karimomran@gmail.com)t
 
 ---
 
