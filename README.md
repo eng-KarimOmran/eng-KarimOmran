@@ -1,10 +1,9 @@
-# Hi there, I'm Karim Omran 👋
+# Hi, I'm Karim Abdelhalim 👋
 
-👋 Hi, I am @eng-KarimOmran.  
-👀 I am a Full Stack Developer passionate about building modern, responsive, and SEO-friendly web applications.  
-🌱 Currently studying Software Engineering at Borg El-Arab Technological University and working on Web Development projects.  
-💞️ Looking to collaborate on Open Source projects and personal Web/Frontend projects.  
-💬 Ask me about **#JavaScript #TypeScript #ReactJS #NextJS #NodeJS #Frontend #FullStack**  
+👀 I am interested in Software Engineering.
+🌱 I am working in web development.
+🧑‍💻 Currently studying Software Engineering at Borg El-Arab Technological University and working on Web Development projects.  
+💞️ Looking to collaborate on Open Source projects and personal Web/Frontend projects.
 
 ---
 
@@ -46,14 +45,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Karim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eng-KarimOmran&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-KarimOmran&layout=compact&theme=radical)  
+## 🔗 Get to know me
+For more about my projects and experience, visit my portfolio:  
+[**karim-omran.vercel.app**](https://karim-omran.vercel.app/) 🌐
 
 ---
-
-## 🎯 Achievements & Badges
-
-![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=eng-KarimOmran&theme=radical)  
-
