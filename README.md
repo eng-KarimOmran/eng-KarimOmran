@@ -1,8 +1,11 @@
 # Hi, I'm Karim Abdelhalim 👋
 
 👀 I am interested in Software Engineering.
+
 🌱 I am working in web development.
-🧑‍💻 Currently studying Software Engineering at Borg El-Arab Technological University and working on Web Development projects.  
+
+🧑‍💻 Currently studying Software Engineering at Borg El-Arab Technological University and working on Web Development projects.
+
 💞️ Looking to collaborate on Open Source projects and personal Web/Frontend projects.
 
 ---
